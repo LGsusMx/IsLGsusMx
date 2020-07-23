@@ -1,4 +1,4 @@
-<img align="right" width="500" height="500" src="https://raw.githubusercontent.com/LGsusMx/IsLGsusMx/master/BanneGitHub.png?token=AKGGMOK4FDJFMLCCXGOW6NK7DH7QW">
+<img align="right" width="500" height="500" src="https://raw.githubusercontent.com/LGsusMx/IsLGsusMx/master/BanneGitHub.png">
 
 
 # Hola, soy estudiante de ISSC.
